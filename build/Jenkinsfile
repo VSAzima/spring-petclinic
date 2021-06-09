@@ -94,5 +94,3 @@ stage('image build and load') {
     }
   }
 }
-
-}
