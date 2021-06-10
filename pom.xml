@@ -350,13 +350,13 @@
         <enabled>true</enabled>
       </snapshots>
     </repository> -->
-    <repository>
+    <!-- <repository>
       <id>maven-central</id>
       <name>maven-central</name>
       <url>https://webnginx/</url>
       <snapshots>
         <enabled>false</enabled>
-      </snapshots>
+      </snapshots> -->
     </repository>
 
   </repositories>
